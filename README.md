@@ -16,3 +16,11 @@ Aset visual dibuat oleh: Surya Rahma Pratama
 Interaktif ini berupa kuis drag and drop dimana pemain/pengguna harus mengurutkan setiap kotak huruf sehingga menjadi kalimat yg benar dengan cara meng-drag kotak kata ke kotak jawaban.
 
 ![ScreenCapture2](https://user-images.githubusercontent.com/55121946/211490975-1c68025f-11bb-4650-8f8e-edd558d3f630.PNG)
+
+# Interaktif Media 3: Berlatih Kepekaan Nada
+Dibuat menggunakan: Adobe Animate CC 2022 + CreateJs <br />
+Aset visual dibuat oleh: Surya Rahma Pratama
+
+Interaktif ini berupa kuis menebak tangga nada. Kuis terdiri dari 5 tingkat/level dan pemain harus memilih kunci nada yang benar.
+
+![SS](https://user-images.githubusercontent.com/55121946/217412113-884557ff-1198-47ee-ae6b-aa6c8ea169f9.png)
